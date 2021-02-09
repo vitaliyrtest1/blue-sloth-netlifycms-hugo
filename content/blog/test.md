@@ -9,7 +9,11 @@ seo:
   title: lorem-ipsum
   description: lorem-ipsum
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/10_thumb.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 ---

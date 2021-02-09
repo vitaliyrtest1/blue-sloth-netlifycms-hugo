@@ -128,7 +128,7 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: /images/10.jpg
+      value: /images/2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -11,7 +11,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/10_thumb.jpg
+      value: /images/4.png
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta

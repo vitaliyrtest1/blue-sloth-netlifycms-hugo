@@ -109,7 +109,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
-  domain: 'https://blue-sloth-netlifycms-hugo-23e7e.netlify.app'
+  domain: '123'
 taxonomies:
   stub: stub
 disableKinds:

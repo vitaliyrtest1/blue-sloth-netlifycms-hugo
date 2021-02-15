@@ -128,9 +128,9 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: 'http://google.com/image.png'
+      value: /images/11_thumb.jpg
       keyName: property
-      relativeUrl: false
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'

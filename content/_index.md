@@ -138,7 +138,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/marvelous-zucchini.png
       relativeUrl: true
 layout: landing
 ---
